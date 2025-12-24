@@ -46,20 +46,9 @@ All data is stored and managed through a MySQL database.
 
 ---
 
-## 🛠️ Installation & Setup
+## 🛠️Setup
+Create Database and Tables:
 
-1. **Install Python**  
-   Download and install Python 3.8 or higher from [python.org](https://www.python.org/downloads/).
-
-2. **Install MySQL**  
-   Install MySQL Community Server and MySQL Workbench from [mysql.com](https://dev.mysql.com/downloads/).
-
-3. **Install MySQL Connector for Python**  
-   Open your terminal or command prompt and run:
-   ```bash
-   pip install mysql-connector-python
-
-4.Create Database and Tables
 CREATE DATABASE studyplanner;
 
 USE studyplanner;
